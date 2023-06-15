@@ -14,9 +14,10 @@ function App() {
   <h1> Estadísticas de Vigilancia</h1>
   <p>La siguiente información es notificada semanalmente por las entidades territoriales (ET) al Instituto Nacional de Salud (INS) a través del Sistema de vigilancia en salud pública (Sivigila)</p>
  <Card/>
-  </div>
- )
 
-}
+  </div>
+
+ )
+};
 
 export default App

@@ -1,13 +1,17 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
 
-const Card = (data) => {
+const Card = () => {
     return(
         <div class="card">
   <div class="card-content">
-    <p class="card-title">Card hover effect
-    </p><p class="card-para">Lorem ipsum dolor sit 
-      amet, consectetur adipiscing elit.</p>
+    <p class="card-title">Top 3 nacional
+    </p><p class="card-para"> 
+    <ul>
+        <li>VIH</li>
+        <li>Zica</li>
+        <li>Vigilancia en salud pública de la violencia de género e intrafamiliar</li>
+        </ul></p>
   </div>
 </div>
 
