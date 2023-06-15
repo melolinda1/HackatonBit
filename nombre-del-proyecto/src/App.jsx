@@ -15,7 +15,7 @@ function App() {
   <p>La siguiente información es notificada semanalmente por las entidades territoriales (ET) al Instituto Nacional de Salud (INS) a través del Sistema de vigilancia en salud pública (Sivigila)</p>
  <Card/>
 
- <p>Seleccione a continuación su departamento:</p>
+ <p>Seleccione su vista de preferencia y a continuación su departamento:</p>
 
  <iframe title="Info_Salud" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=03f489fc-d01c-4935-95e2-abd683206751&autoAuth=true&ctid=8045537a-9280-409e-a902-251430f7e564" frameborder="0" allowFullScreen="true"></iframe>
 
