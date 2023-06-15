@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/js/bootstrap.js';
+import Card from './Card'
 import './App.css'
 
 function App() {
@@ -12,6 +12,8 @@ function App() {
 
 
   <h1> Estadísticas de Vigilancia</h1>
+  <p>La siguiente información es notificada semanalmente por las entidades territoriales (ET) al Instituto Nacional de Salud (INS) a través del Sistema de vigilancia en salud pública (Sivigila)</p>
+ <Card/>
   </div>
  )
 
